@@ -32,8 +32,8 @@
 namespace esphome {
 namespace lc709203f {
 
-//static const char *TAG = "lc709203f.sensor";
-static const char *TAG = "sensor.lc709203f";
+static const char *TAG = "lc709203f.sensor";
+//static const char *TAG = "sensor.lc709203f";
 
 
 /*!
